@@ -1,0 +1,15 @@
+[
+  {
+    "File": "ControlCenter_Ver_22.12.20.01.exe",
+    "Hash": "A045FAF771725A9FDAE197D4F6506D2601B84AD3A4F83B9737A2F396B58E53D8"
+  },
+  {
+    "File": "XTUSetup_7.5.3.3_OEM.exe",
+    "Hash": "762005E092AF832C54D6CA9876939D6969B24CAF2691B6C4A9CB733B3ACB0F9A"
+  },
+  {
+    "File": "AERO17_ControlCenter_Fix_Setup.exe",
+    "Hash": "9F56AD5F69CD009291C419885858049500C04D098BEA357037404BA531504188",
+    "Note": "一键修复安装器：内置原厂控制中心 22.12.20.01 + 配套 XTU 7.5.3.3，自动检测/卸载不配套 XTU"
+  }
+]
